@@ -14,7 +14,7 @@ export const LoginScreen = () => {
                                 className="form-control"
                                 placeholder="Correo"
                             />
-                        </div>
+                        </div><br/>
                         <div className="form-group">
                             <input
                                 type="password"
@@ -22,6 +22,7 @@ export const LoginScreen = () => {
                                 placeholder="Contraseña"
                             />
                         </div>
+                        <br/>
                         <div className="form-group">
                             <input 
                                 type="submit"
@@ -41,21 +42,23 @@ export const LoginScreen = () => {
                                 className="form-control"
                                 placeholder="Nombre"
                             />
+
                         </div>
+                        <br/>
                         <div className="form-group">
                             <input
                                 type="email"
                                 className="form-control"
                                 placeholder="Correo"
                             />
-                        </div>
+                        </div><br/>
                         <div className="form-group">
                             <input
                                 type="password"
                                 className="form-control"
                                 placeholder="Contraseña" 
                             />
-                        </div>
+                        </div><br/>
 
                         <div className="form-group">
                             <input
@@ -64,7 +67,7 @@ export const LoginScreen = () => {
                                 placeholder="Repita la contraseña" 
                             />
                         </div>
-
+                        <br/>
                         <div className="form-group">
                             <input 
                                 type="submit" 
